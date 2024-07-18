@@ -1,1 +1,6 @@
+Q3] what is dfd? create a dfd diagram on flipkart
 
+ans] DFD is the graphical representation of the flow of data or information
+Dfd describes the path of data that completes the process.
+
+dfd diagram on flipkart.
